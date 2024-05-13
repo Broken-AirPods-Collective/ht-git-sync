@@ -1,4 +1,0 @@
-name: sss2
-source: postgre-sql-localhost
-type: table
-tableName: public.query_log
