@@ -1,0 +1,10 @@
+{
+  "editor.formatOnType": false, // required
+  "editor.formatOnPaste": false, // optional
+  "editor.formatOnSave": false, // optional
+  "files.autoSave": "off", // optional but recommended
+  "vs-code-prettier-eslint.prettierLast": false,
+
+
+  "eslint.format.enable": false
+}
