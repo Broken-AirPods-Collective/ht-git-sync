@@ -1,4 +1,4 @@
-name: dddd2
+name: dddd
 source: postgre-sql-localhost
 type: table
 tableName: public.organization_api_keys
