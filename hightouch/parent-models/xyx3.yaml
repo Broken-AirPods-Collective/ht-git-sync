@@ -1,0 +1,6 @@
+name: xyx3
+source: postgre-sql-localhost
+description: "11"
+type: table
+tableName: public.parameterized_audience_conditions
+primaryKey: audience_id
