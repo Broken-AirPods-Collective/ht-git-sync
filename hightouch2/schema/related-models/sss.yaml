@@ -1,4 +1,4 @@
-name: sss222 TEST INBOUND
+name: sss
 source: postgre-sql-localhost
 type: table
 tableName: public.query_log
