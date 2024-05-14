@@ -1,0 +1,5 @@
+name: sfdsadfs
+source: postgre-sql-localhost
+type: table
+tableName: public.user_group_model_creation_grants
+primaryKey: user_group_id
