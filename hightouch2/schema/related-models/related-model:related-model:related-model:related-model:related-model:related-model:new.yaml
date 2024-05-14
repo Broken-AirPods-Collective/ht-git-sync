@@ -1,4 +1,0 @@
-name: New orphaned related model
-source: postgre-sql-localhost
-type: table
-tableName: public.query_log
