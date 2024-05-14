@@ -1,5 +1,0 @@
-name: foo 4
-source: postgre-sql-localhost
-type: raw_sql
-rawSql: select * from fake_external_segment_members
-primaryKey: email
