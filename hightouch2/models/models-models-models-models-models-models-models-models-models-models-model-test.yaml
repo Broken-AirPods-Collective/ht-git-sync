@@ -1,5 +1,0 @@
-name: model test
-source: postgre-sql-localhost
-type: raw_sql
-rawSql: select * from datadog_credentials limit 1
-primaryKey: id
