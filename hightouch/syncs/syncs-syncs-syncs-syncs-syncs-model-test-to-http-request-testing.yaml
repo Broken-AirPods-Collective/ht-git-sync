@@ -1,0 +1,9 @@
+destination: http-request-testing
+config:
+  add: {}
+  change: {}
+  remove: {}
+  configVersion: 1
+schedule:
+  type: manual
+schedulePaused: false
