@@ -1,0 +1,5 @@
+name: foo 3
+source: postgre-sql-localhost
+type: raw_sql
+rawSql: select * from sample_data_sources limit 1;
+primaryKey: uuid
