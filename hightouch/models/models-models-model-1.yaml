@@ -1,0 +1,5 @@
+name: Model 1
+source: postgre-sql-localhost
+type: raw_sql
+rawSql: select * from sample_data_sources
+primaryKey: uuid
