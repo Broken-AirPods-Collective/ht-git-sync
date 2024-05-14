@@ -1,5 +1,0 @@
-name: inbound test model
-source: postgre-sql-localhost
-type: raw_sql
-rawSql: select * from users;
-primaryKey: id
