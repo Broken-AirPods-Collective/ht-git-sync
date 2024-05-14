@@ -1,6 +1,0 @@
-name: idk
-source: postgre-sql-localhost
-description: dddd
-type: raw_sql
-rawSql: select * from sample_data_sources;
-primaryKey: uuid
