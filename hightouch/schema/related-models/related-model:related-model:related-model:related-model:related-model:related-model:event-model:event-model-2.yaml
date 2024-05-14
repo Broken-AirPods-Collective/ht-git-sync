@@ -1,4 +1,4 @@
-name: sss pizza world
+name: event model 1.5 inbound test
 source: postgre-sql-localhost
 type: table
 tableName: public.query_log
