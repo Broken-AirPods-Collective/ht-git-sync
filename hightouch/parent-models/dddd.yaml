@@ -1,5 +1,0 @@
-name: dddd2
-source: postgre-sql-localhost
-type: table
-tableName: public.organization_api_keys
-primaryKey: id
