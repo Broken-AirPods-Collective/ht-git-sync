@@ -1,0 +1,5 @@
+name: users
+source: postgre-sql-localhost
+type: raw_sql
+rawSql: select * from users;
+primaryKey: id
