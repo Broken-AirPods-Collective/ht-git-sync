@@ -1,0 +1,5 @@
+name: matchboost 2
+source: postgre-sql-localhost
+type: table
+tableName: public.matchboosting_stats
+primaryKey: uuid
