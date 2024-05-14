@@ -1,0 +1,5 @@
+name: users
+source: postgre-sql-localhost
+type: table
+tableName: public.users
+primaryKey: id
